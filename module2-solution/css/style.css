@@ -1,6 +1,9 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+}
+
+body {
   font-family: "Calibri", "Helvetica", "Arial", "Sans-Serif";
   font-size: 12pt;
 }
